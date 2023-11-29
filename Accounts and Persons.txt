@@ -1,0 +1,2 @@
+roudy,123,12345,debit,1000,6789,credit,2000
+paul,345,3213,credit,2000,2345,debit,3000
